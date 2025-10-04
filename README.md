@@ -2,7 +2,7 @@
 
 Este projeto contém um script Python desenvolvido para automatizar a comparação e validação de dados entre duas planilhas Excel (.xlsx). O principal objetivo é identificar discrepâncias, registros exclusivos e correspondências exatas entre os dois arquivos, utilizando uma coluna-chave (como RE de funcionário) para cruzar as informações.
 
-## ecnologias Utilizadas
+## Tecnologias Utilizadas
 * **Python 3**
 * **Pandas:** Biblioteca para manipulação e análise de dados.
 * **NumPy:** Biblioteca para operações numéricas, utilizada aqui para a lógica de comparação.
